@@ -3,6 +3,8 @@ Repo for LaTex Resources
 
 ## LaTex Template
 
+[LaTex Presentation](https://docs.google.com/presentation/d/1OQ1P8OKRi-YyuKJ8_hX7VRa-bTypNoxm_SgbEZZE6cQ/edit?usp=sharing)
+
 If you click the zip link, the zip file will automoatically be downloaded.
 [Example Paper from Overleaf.zip](https://github.com/user-attachments/files/16576085/Example.Paper.from.Overleaf.zip)
 
